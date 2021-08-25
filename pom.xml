@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.gspann</groupId>
-  <artifactId>safeway_jenkin</artifactId>
+  <artifactId>safeway</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
@@ -31,7 +31,7 @@
 
 
   <build>
-   <finalName>safeway_jenkin</finalName>
+   <finalName>safeway</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
