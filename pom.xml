@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.gspann</groupId>
-  <artifactId>safeway</artifactId>
+  <artifactId>zomato</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>safeway Maven Webapp</name>
+  <name>zomato</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
