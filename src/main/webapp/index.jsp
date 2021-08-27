@@ -7,7 +7,7 @@
 <marquee behavior="scroll" direction="up">
 <marquee behavior="alternate">
 <img src="http://www.html.am/images/html-codes/marquees/coffee.gif" width="150" height="108"
-alt="Cup of cofee with saucer" />
+alt="Cup of coffee on saucer"" />
 </marquee>
 </marquee>
 </body>
